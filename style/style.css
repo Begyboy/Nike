@@ -79,7 +79,7 @@
 }
 
 .header_content {
-    background: url(../img/header-content-bg.png) no-repeat center center /cover fixed;
+    background: url(../img/header-content-bg.png) no-repeat center center /cover;
     display: flex;
     align-items: center;
     justify-content: center;
